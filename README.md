@@ -69,3 +69,11 @@ O arquivo `avaliacoes.csv` deve estar disponível no caminho esperado pelo noteb
 ---
 
 **Projeto de estudo em Machine Learning e Processamento de Linguagem Natural.**
+
+---
+
+## 👩‍💻 Autora
+
+**Eduarda Diorio**
+
+Graduada em Análise e Desenvolvimento de Sistemas e Administração, atualmente em especialização em Ciência de Dados.
